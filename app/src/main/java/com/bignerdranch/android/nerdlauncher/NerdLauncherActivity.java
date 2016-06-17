@@ -3,7 +3,7 @@ package com.bignerdranch.android.nerdlauncher;
 import android.support.v4.app.Fragment;
 
 /**
- * TEst123aga
+ *
  */
 public class NerdLauncherActivity extends SingleFragmentActivity {
 
